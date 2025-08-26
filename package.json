@@ -1,0 +1,13 @@
+{
+"name": "drive-exemplary-middleware",
+"version": "0.1.0",
+"type": "module",
+"engines": { "node": ">=18" },
+"dependencies": {
+"axios": "^1.7.2",
+"express": "^4.19.2",
+"form-data": "^4.0.0",
+"googleapis": "^131.0.0",
+"morgan": "^1.10.0"
+}
+}
